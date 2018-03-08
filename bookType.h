@@ -1,11 +1,3 @@
-//
-//  book.hpp
-//  Ch10_10
-//
-//  Created by Drew Hudson on 10/10/17.
-//  Copyright © 2017 Drew Hudson. All rights reserved.
-//
-
 #ifndef book_hpp
 #define book_hpp
 
