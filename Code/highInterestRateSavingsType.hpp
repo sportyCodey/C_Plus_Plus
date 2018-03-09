@@ -1,3 +1,5 @@
+//header file for highInterestRateSavingsType
+
 #ifndef highInterestRateSavingsType_hpp
 #define highInterestRateSavingsType_hpp
 
