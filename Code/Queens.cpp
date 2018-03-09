@@ -1,3 +1,5 @@
+//This program performs the n-queens problem
+
 #include <iostream>
 
 int n = 24;
