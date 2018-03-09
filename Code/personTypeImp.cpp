@@ -1,3 +1,5 @@
+//implementation file for another personType
+
 #include "stdafx.h"
 #include <iostream>
 #include <string>
