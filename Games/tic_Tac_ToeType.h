@@ -1,3 +1,5 @@
+//header file for tic_Tac_ToeType
+
 #ifndef H_tic_Tac_ToeType
 #define H_tic_Tac_ToeType
 
