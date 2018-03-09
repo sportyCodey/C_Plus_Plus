@@ -1,3 +1,5 @@
+//program to fiddle with pointers and to dynamically create arrays
+
 #include "stdafx.h"
 #include <iostream>
 #include <string>
