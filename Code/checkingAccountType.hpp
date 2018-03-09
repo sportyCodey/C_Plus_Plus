@@ -1,3 +1,5 @@
+//header file for checkingAccountType
+
 #ifndef checkingAccountType_hpp
 #define checkingAccountType_hpp
 
