@@ -1,3 +1,5 @@
+//header file for highInterestCheckingType
+
 #ifndef highInterestChecking_hpp
 #define highInterestChecking_hpp
 
