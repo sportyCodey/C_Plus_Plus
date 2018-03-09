@@ -1,3 +1,5 @@
+//implementatino file for noServiceChargeCheckingType
+
 #include <iostream>
 #include <string>
 
@@ -7,7 +9,7 @@
 noServiceChargeCheckingType::noServiceChargeCheckingType(std::string n_AcctNumber, std::string n_Name, double n_Balance)
     : checkingAccountType(n_AcctNumber, n_Name, n_Balance)
 {
-    //notice how on every class (why am I putting this here? Cuz I just chose this one) the precision isn't right. I betcah it's cuz of std::cout << setprecis blah blah blah. Maybe try to put it in all constructors?
+   
 }
 
 void noServiceChargeCheckingType::writeCheck()
