@@ -1,3 +1,5 @@
+//header file for billType
+
 #ifndef H_billType
 #define H_billType
 #include <string>
