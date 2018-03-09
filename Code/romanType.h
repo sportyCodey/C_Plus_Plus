@@ -1,3 +1,5 @@
+//header file for romanType
+
 #ifndef H_romanType
 #define H_romanType
 
