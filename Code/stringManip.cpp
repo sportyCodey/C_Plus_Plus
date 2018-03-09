@@ -16,7 +16,7 @@ int main()
     int nameIndex = static_cast<unsigned int> (input.find(" "));
     string name = input.substr(0, nameIndex);
     
-    /* These aren't used, but it took forever to figure out, so here ya go */
+    /* These variables aren't used */
     int socialSecurity_Index = static_cast<unsigned int> (input.find_first_of(" ", nameIndex + 1));
     string socialSecurity = input.substr(nameIndex + 1, socialSecurity_Index - nameIndex);
     
