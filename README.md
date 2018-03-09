@@ -6,3 +6,5 @@ I took Programming 1 in C++ (at a different school than my current one), but tha
 
 I don't have many programs to display here in C++. Mainly, it's because I'm more interested in Java, C#, and C. Also, my university does not teach C++, so I couldn't spent a lot of time with C++ inside the classroom. However, the software presented are problems I worked in my self-study (programming 2 concepts) to get comfortable with C++ syntax, improve programming skills in general, and show I know object oriented programming in C++. There are a few basic programming 1 problems just to show that I can do those as well. These programs solve problems taken from the textbook C++ Programming From Problem Analysis to Program Design 7th Editin by Malik.
 
+These programs are in no particular order. Please note, some header files have the extension hpp and some have the extension h. This is becuase I do some coding in Microsoft Visual Studio and some in Xcode by Apple.
+
