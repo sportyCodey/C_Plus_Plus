@@ -1,6 +1,7 @@
 # C_Plus_Plus
 Some of my work in C++
 
+Before I get into the details, here's a quick run down of each folder posted:
 
 
 I took Programming 1 in C++ (at a different school than my current one), but that's it. So, after programming 1 concepts, I am 100% self-taught in C++. Programming 1 concepts usually cover the basics of programming and end with arrays and functions. So, I taught myself all the object oriented programming concepts, the namespace concept, pointers, and structs in C++. I can see those being the programming 2 concepts in a college class. However, I'm still not done learning C++. I need to learn the syntax for data structures and exception handling. Also, there must be more advanced topics out there. Soon it'll be time to purchase another C++ textbook that teaches advanced topics. Learning C++ wasn't too hard because of my experience in C.
