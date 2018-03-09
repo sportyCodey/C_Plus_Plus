@@ -1,3 +1,5 @@
+//header file for extPersonType
+
 #ifndef extPerson_hpp
 #define extPerson_hpp
 
