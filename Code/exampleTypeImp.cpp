@@ -1,3 +1,5 @@
+//implementation file for exampleType
+
 #include "stdafx.h"
 #include <iostream>
 #include "exampleType.h"
