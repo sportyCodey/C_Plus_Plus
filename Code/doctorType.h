@@ -1,3 +1,5 @@
+//header file for doctorType
+
 #ifndef H_doctorType
 #define H_doctorType
 
