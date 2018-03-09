@@ -1,3 +1,5 @@
+//header file for personType
+
 #ifndef person_hpp
 #define person_hpp
 
