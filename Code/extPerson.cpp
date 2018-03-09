@@ -1,3 +1,5 @@
+//implementation file for extPersonType
+
 #include <iostream>
 #include "extPerson.hpp"
 
