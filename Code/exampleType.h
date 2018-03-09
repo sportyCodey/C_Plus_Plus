@@ -1,3 +1,5 @@
+//header file for exampleType
+
 #ifndef H_exampleType
 #define H_exampleType
 
