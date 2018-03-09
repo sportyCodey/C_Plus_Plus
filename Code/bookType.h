@@ -1,3 +1,5 @@
+//header file for bookType
+
 #ifndef book_hpp
 #define book_hpp
 
