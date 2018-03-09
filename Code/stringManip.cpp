@@ -1,3 +1,5 @@
+//program to manipulate strings
+
 #include <iostream>
 #include <string>
 
