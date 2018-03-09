@@ -1,3 +1,5 @@
+//This program calculates the factorization of a number
+
 #include <iostream>
 #include <string>
 #include <sstream>
