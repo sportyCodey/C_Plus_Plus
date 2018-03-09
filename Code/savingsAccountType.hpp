@@ -1,3 +1,5 @@
+//header file for savingsAccontType
+
 #ifndef savingsAccountType_hpp
 #define savingsAccountType_hpp
 
