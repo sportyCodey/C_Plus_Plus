@@ -1,3 +1,5 @@
+//This file can be used to test classes
+
 #include "stdafx.h"
 #include "patientType.h"
 
