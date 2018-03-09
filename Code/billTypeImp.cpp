@@ -1,3 +1,5 @@
+//implementation file for billType
+
 #include "stdafx.h"
 #include <iostream>
 #include <string>
