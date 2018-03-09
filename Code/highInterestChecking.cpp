@@ -1,3 +1,5 @@
+//implementation file for highInterestCheckingType
+
 #include <iostream>
 #include <string>
 
