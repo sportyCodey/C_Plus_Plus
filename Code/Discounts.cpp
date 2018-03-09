@@ -7,12 +7,13 @@ using namespace std;
 void displayInfo();
 void getInfo(bool& senior, bool& twelveM, bool& trainer);
 void membershipCost(bool& senior, bool& twelveM, bool& trainer);
+double calculate(double discount);
 
 int main() {
     
-    bool senior;
-    bool twelveM;
-    bool trainer;
+    bool senior = 0;
+    bool twelveM = 0;
+    bool trainer = 0;
     
     displayInfo();
     getInfo(senior, twelveM, trainer);
@@ -95,14 +96,25 @@ void getInfo(bool& senior, bool& twelveM, bool& trainer)
 void membershipCost(bool& senior, bool& twelveM, bool& trainer)
 {
     int membershipCost = 200;
+    int subtraction = 0;
     
     if (senior == 1)
-        membershipCost *= .30;
+    {
+         subtraction += calculate(0.30);
+    }
     if (twelveM == 1)
-        membershipCost *= .15;
+    {
+        subtraction += calculate(0.15);
+    }
     if (trainer == 1)
-        membershipCost *= .20;
+    {
+        subtraction += calculate(0.20);
+    }
     
-    cout << "Your total membership cost is " << membershipCost << endl << endl;
-        
+    cout << "Your total membership cost is " << (membershipCost - subtraction) << endl << endl;
+}
+
+double calculate(double discount)
+{
+    return 200 * discount;
 }
