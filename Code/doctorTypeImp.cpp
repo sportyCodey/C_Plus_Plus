@@ -1,3 +1,5 @@
+//implementation file for doctorType
+
 #include "stdafx.h"
 #include <iostream>
 #include <string>
