@@ -1,3 +1,5 @@
+//implementation file for checkingAccountType
+
 #include <iostream>
 #include <string>
 
