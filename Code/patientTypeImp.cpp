@@ -1,3 +1,5 @@
+//implementation file for patientType
+
 #include "stdafx.h"
 #include <iostream>
 #include <string>
