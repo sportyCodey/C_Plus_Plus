@@ -1,3 +1,5 @@
+//header file for noServiceChargeCheckingType
+
 #ifndef noServiceChargeChecking_hpp
 #define noServiceChargeChecking_hpp
 
