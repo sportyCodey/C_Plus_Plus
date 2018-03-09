@@ -1,3 +1,5 @@
+//This program simulates an election
+
 #include <iostream>
 #include <iomanip>
 
