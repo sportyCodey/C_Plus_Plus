@@ -3,7 +3,7 @@ Some of my work in C++
 
 Before I get into the details, here's a quick run down of each folder posted:
 
-The code I've done in C++: Code
+Some of the code I've done in C++: Code
 *******************************
 
 A simple console game I created: Games
