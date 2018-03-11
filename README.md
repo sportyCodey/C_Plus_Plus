@@ -6,7 +6,7 @@ Before I get into the details, here's a quick run down of each folder posted:
 Some of the code I've done in C++: Code
 *******************************
 
-A simple console game I created: Games
+A console game I created: Games
 *******************************
 
 Some textfiles that go with some programs: TextFiles
